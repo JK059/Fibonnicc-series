@@ -13,3 +13,5 @@ def fibonacci_series(n):
 # Example: Get the first 10 terms
 num_terms = 10
 print(f"Fibonacci Series ({num_terms} terms):", fibonacci_series(num_terms))
+print("End of fibonacci series")
+
